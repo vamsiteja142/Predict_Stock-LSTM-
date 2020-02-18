@@ -6,7 +6,7 @@ We use an LSTM neural network to predict the closing price of the S&P 500 using 
 
 keras
 tensorflow
-Install Keras from here and Tensorflow from here.
+Install Keras  and Tensorflow .
 
 ##Usage
 
@@ -14,5 +14,5 @@ Run this using jupyter notebook. Just type jupyter notebook in the main director
 
 #Coding Challenge - Due Date, Thursday, March 2nd 2017 at 12 PM PST
 
-Use the price history AND two other metrics of your choice to predict the price of GOOGL stock with an LSTM network. You can find the CSV here. Metrics could be sentiment analysis from Twitter of what people have said about Google, dividends, etc.
+Use the price history AND two other metrics of your choice to predict the price of GOOGL stock with an LSTM network. 
 
